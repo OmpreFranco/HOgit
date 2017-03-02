@@ -1,4 +1,4 @@
-Repositorio con ejercicios para practicar comandos básicos de git
+Repositorio con ejercicios para practicar comandos básicos de git!!
 
 ## Qué podemos hacer
 
